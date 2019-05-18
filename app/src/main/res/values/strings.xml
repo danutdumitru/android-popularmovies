@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Popular movies</string>
+
+    <!-- Menu -->
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="movies_header">Movie options</string>
+
+    <!-- Movie Preferences -->
+    <string name="sort_order_title">Sort movies by</string>
+    <string name="sort_order_key">sort_key</string>
+
 </resources>
